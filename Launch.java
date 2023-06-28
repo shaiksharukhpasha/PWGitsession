@@ -1,0 +1,6 @@
+class Launch{
+void main(){
+}
+
+
+}
